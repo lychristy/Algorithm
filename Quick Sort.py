@@ -33,6 +33,8 @@ class Solution(object):
         rightBound -= 1
       else:
         array[rightBound], array[leftBound] = array[leftBound], array[rightBound]
+        leftBound += 1
+        rightBound -= 1
     array[pivot], array[leftBound] = array[leftBound], array[pivot]
     return leftBound
 
