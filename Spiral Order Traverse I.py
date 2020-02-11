@@ -1,10 +1,5 @@
 #Spiral Order Traverse I
 #Traverse an N * N 2D array in spiral order clock-wise starting from the top left corner. Return the list of traversal sequence.
-"""
-Created on Mon Feb 10 16:01:33 2020
-
-@author: yliu
-"""
 class Solution(object):
   def spiral(self, matrix):
     """
