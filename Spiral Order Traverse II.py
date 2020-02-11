@@ -15,7 +15,7 @@ class Solution(object):
 
     while rowStart <= rowEnd and colStart <= colEnd:
       for i in range(colStart, colEnd + 1):
-        newList.append(matrix[colStart][i])
+        newList.append(matrix[rowStart][i])
       for i in range(rowStart + 1, rowEnd + 1):
         newList.append(matrix[i][colEnd])
       if rowStart < rowEnd:
@@ -23,7 +23,7 @@ class Solution(object):
           newList.append(matrix[rowEnd][i])
       if colStart < colEnd:
         for i in reversed(range(rowStart + 1, rowEnd)):
-          newList.append(matrix[i][rowStart])
+          newList.append(matrix[i][colStart])
       rowStart += 1
       colStart += 1
       rowEnd -= 1
