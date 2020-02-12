@@ -9,7 +9,7 @@ class Solution(object):
     # write your solution here
     if len(matrix) <= 1:
       return matrix
-    n = int((len(matrix) + 1 ) / 2)
+    n = (len(matrix) + 1 ) // 2
 
     right = len(matrix) - 1
     level = len(matrix)
