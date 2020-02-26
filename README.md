@@ -1,4 +1,4 @@
-#Algorithm
+# Algorithm
 ## [Array](https://github.com/lychristy/Algorithm/tree/master/Array)
 #### 1.1 [Classic Sorting](https://github.com/lychristy/Algorithm/tree/master/Array/1.%20Classic%20Sorting)
 #### 1.2 [2D Array](https://github.com/lychristy/Algorithm/tree/master/Array/2.%202D%20Array)
