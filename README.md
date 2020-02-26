@@ -1,6 +1,7 @@
 # Algorithm
 ## [Array](https://github.com/lychristy/Algorithm/tree/master/Array)
 #### 1.1 [Classic Sorting](https://github.com/lychristy/Algorithm/tree/master/Array/1.%20Classic%20Sorting)
+Insertion Sort<br/>Merge Sort<br/>Quick Sort<br/>Selection Sort<br/>
 #### 1.2 [2D Array](https://github.com/lychristy/Algorithm/tree/master/Array/2.%202D%20Array)
 #### 1.3 [Two Pointers](https://github.com/lychristy/Algorithm/tree/master/Array/3.%20Two%20Pointers)
 #### 1.4 [K Sum](https://github.com/lychristy/Algorithm/tree/master/Array/4.%20K%20Sum)
